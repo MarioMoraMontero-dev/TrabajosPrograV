@@ -170,6 +170,7 @@
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Clases\Curso.cs" />
+    <Compile Include="Clases\Estudiante.cs" />
     <Compile Include="Clases\Persona.cs" />
     <Compile Include="Contact.aspx.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
