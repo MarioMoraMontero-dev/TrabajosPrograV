@@ -52,7 +52,7 @@ namespace Lab02_MarioMoraMontero.Clases
             
             if( anhoNacimiento != DateTime.Now.Year)
             {
-                edad = this.anhoNacimiento - DateTime.Now.Year;
+                edad = DateTime.Now.Year - this.anhoNacimiento;
             }
             else
             {

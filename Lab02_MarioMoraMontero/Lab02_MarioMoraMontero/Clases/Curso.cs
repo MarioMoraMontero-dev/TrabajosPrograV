@@ -39,7 +39,7 @@ namespace Lab02_MarioMoraMontero.Clases
             int Estado_Nota = Convert.ToInt32(this.nota);
             if( Estado_Nota >+ 70)
             {
-                Estado = "Aprovado";
+                Estado = "Aprobado";
 
             }
             else
